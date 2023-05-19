@@ -1,0 +1,14 @@
+@import '/src/styles/resources/';
+
+.wrapper {
+    position: absolute;
+    top: 24px;
+    left: 40px;
+}
+
+.logo {
+    font-size: 21px;
+    color: #000000;
+    font-weight: $font-weight;   
+    font-family: $font-family;
+}
